@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arc.gov.register.au/static/css/main.60b961bf.css",
+    "main.js": "/arc.gov.register.au/static/js/main.aa2f3b10.js",
+    "static/media/DOL-MasterLogo_BLUE.svg": "/arc.gov.register.au/static/media/DOL-MasterLogo_BLUE.888fad6cbd8cc852ddcaffd558c1b0df.svg",
+    "static/media/logo222.jpg": "/arc.gov.register.au/static/media/logo222.7c1bb73e28ae9722a279.jpg",
+    "index.html": "/arc.gov.register.au/index.html",
+    "main.60b961bf.css.map": "/arc.gov.register.au/static/css/main.60b961bf.css.map",
+    "main.aa2f3b10.js.map": "/arc.gov.register.au/static/js/main.aa2f3b10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60b961bf.css",
+    "static/js/main.aa2f3b10.js"
+  ]
+}
